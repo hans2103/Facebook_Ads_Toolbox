@@ -1,0 +1,14 @@
+{
+  "name": "Facebook/AdsToolbox",
+  "license": "GPL-3.0",
+  "type": "magento-module",
+  "description": "Easily set up a pixel and catalog to use advanced advertising products and drive sales on Facebook",
+  "homepage": "https://github.com/hans2103/Facebook_Ads_Toolbox",
+  "authors": [
+    {
+      "name": "Hans Kuijpers",
+      "email": "support@hkweb.nl",
+      "role": "Not the developer of this plugin. Just copier to Github"
+    }
+  ]
+}
